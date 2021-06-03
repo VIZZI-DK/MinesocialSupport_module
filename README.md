@@ -1,4 +1,4 @@
-# MojangSupport
+# MinesocialSupport
 Добавляет [GravitLauncher] поддержку **Minesocial.net**
 #### Установка модуля
 1. Скопировать модуль **MinesocialSupport_module.jar** в папку **/LaunchServer/modules/**
