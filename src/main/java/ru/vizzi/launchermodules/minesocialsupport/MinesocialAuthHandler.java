@@ -21,7 +21,7 @@ public class MinesocialAuthHandler extends AuthHandler {
 
     static {
         try {
-            joinServer = new URL("https://sessionserver.mojang.com/session/minecraft/join");
+            joinServer = new URL("https://sessionserver.minesocial.net/session/minecraft/join");
         } catch (MalformedURLException e) {
             LogHelper.error(e);
         }
